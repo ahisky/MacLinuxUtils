@@ -76,7 +76,8 @@ Intel Turbo Boost technology accelerates processor and graphics performance for 
 ### System tray icon
 Once you start MacLinuxUtils,you will see this icon <img src="https://raw.githubusercontent.com/datcuandrei/MacLinuxUtils/master/resources/fanico.png" width=5% height=5%/> in your taskbar or top bar(depending on your DE or WM).By right clicking on it,you interact with the program without using the main menu.
 
-<b>IMPORTANT</b> : Certain DE's(for example : GNOME) removed support for legacy tray,which is what MacLinuxUtils is using.Therefore,there is no support on those DE's for system tray.
+<b>IMPORTANT</b> : If you desktop environment does not support system trays, MacLinuxUtils will let you know that it has disabled the system tray. If support for 
+system trays will be added, then MacLinuxUtils will enable it automatically.
 
 ### Experimental mode
 Experimental mode is a special mode created for users that want to test new features that are still work-in-progress.Please note that this is a standalone build;it doesn't depend in any way on the stable build.Keep reading for finding out how to launch MacLinuxUtils under experimental mode.Thank you, @mariobrostech for suggesting the experimental setting.
