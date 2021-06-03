@@ -4,6 +4,7 @@ MacLinuxUtils is the free and open-source alternative of macOS apps like Mac Fan
 Table of Contents
 =================
   * [End of development](#end-of-development)
+    * [What does this mean for experimental mode?](#what-does-this-mean-for-experimental-mode)
   * [Features](#features)
     * [Graphical User Interface](#graphical-user-interface)
     * [Fan Control](#fan-control)
@@ -24,11 +25,9 @@ Table of Contents
   * [Mentions of MacLinuxUtils](#mentions-of-maclinuxutils)
 
 # End of development
-As of June 2021, with the 2.3.5 release, development for MacLinuxUtils 
-has ended. This means that MacLinuxUtils will not receive feature 
-updates anymore. It might only receive bug fixes.
+As of June 2021, with the 2.3.5 release, development for MacLinuxUtils has ended. This means that MacLinuxUtils will not receive feature updates anymore. It might only receive bug fixes or other important patches to fix functionality.
 ## What does this mean for experimental mode?
-Currently, experimental mode is in a very unstable state and has not been updated since November 2020. Experimental mode is still accesible, but the features that are available in this mode will never end up in a stable build. FOr basic users, experimental mode is not really recommended.
+Currently, experimental mode is in a very unstable state and has not been updated since November 2020. Experimental mode is still accesible, but the features that are available in this mode will never end up in a stable build. For basic users, experimental mode is not really recommended.
 
 # Features
 ### Graphical User Interface
