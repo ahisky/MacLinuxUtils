@@ -21,11 +21,11 @@ Table of Contents
     * [Permission denied](#permission-denied)
     * [Why is it asking for my password?](#why-is-it-asking-for-my-password-)
   * [Issues](#issues)
-  * [LICENSE](#license)
   * [Mentions of MacLinuxUtils](#mentions-of-maclinuxutils)
-
+  * [License](#license)
+ 
 # End of development
-As of June 2021, with the 2.3.5 release, development for MacLinuxUtils has ended. This means that MacLinuxUtils will not receive feature updates anymore. It might only receive bug fixes or other important patches to fix functionality.
+As of June 2021, with the 2.3.5 release, development for MacLinuxUtils has ended. This means that MacLinuxUtils will not receive feature updates anymore. It might only receive bug fixes or other important patches to fix functionality. This decision was taken due to the fact that if I were to add new features, it would be too much for such a small and lightweight utility.
 ## What does this mean for experimental mode?
 Currently, experimental mode is in a very unstable state and has not been updated since November 2020. Experimental mode is still accesible, but the features that are available in this mode will never end up in a stable build. For basic users, experimental mode is not really recommended.
 
@@ -168,9 +168,6 @@ After typing your password in the terminal,the application will run under `super
 # Issues
 If you find issues while running the app,please report them in the [issues](https://github.com/datcuandrei/MacLinuxUtils/issues) section.
 
-# LICENSE
-This project is licensed under the Apache 2.0 license. View LICENSE.md to learn more.
-
 # Attribution
 - MacLinuxUtils's UI would have not been possible without [FlatLaf](https://www.formdev.com/flatlaf/) library.
 - Managing the files was done with the help of [Apache Commons IO](https://commons.apache.org/proper/commons-io/) 
@@ -179,3 +176,20 @@ This project is licensed under the Apache 2.0 license. View LICENSE.md to learn 
 # Mentions of MacLinuxUtils
 - Wolfie's Tech Blog : [Running Debian on my Macbook](https://wolfiestech.blogspot.com/2020/10/running-debian-on-my-macbook.html)
 - Gitbook : [Fan Control for Macs running Linux](https://datcu-andrei-2.gitbook.io/maclinuxfancontrol/)
+
+# License
+```
+   Copyright 2020-2021 Andrei Datcu.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+```
