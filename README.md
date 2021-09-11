@@ -24,8 +24,11 @@ Table of Contents
   * [Mentions of MacLinuxUtils](#mentions-of-maclinuxutils)
   * [License](#license)
  
-# End of development
+# ~~End of development~~
 As of June 2021, with the 2.3.5 release, development for MacLinuxUtils has ended. This means that MacLinuxUtils will not receive feature updates anymore. It might only receive bug fixes or other important patches to fix functionality. This decision was taken due to the fact that if I were to add new features, it would be too much for such a small and lightweight utility.
+
+## I, ASKY still use this on Debian. Possibly if I can't run this anymore in the future then this repo will be updated.
+
 ## What does this mean for experimental mode?
 Currently, experimental mode is in a very unstable state and has not been updated since November 2020. Experimental mode is still accesible, but the features that are available in this mode will never end up in a stable build. For basic users, experimental mode is not really recommended.
 
